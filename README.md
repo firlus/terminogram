@@ -1,5 +1,5 @@
 # Terminogram - Nonogram over Telnet
-![This is how Terminogram looks](https://firlusdev-my.sharepoint.com/personal/michael_firlus_dev/Documents/Pers%C3%B6nlich/Terminogram/screenshot.JPG)
+![This is how Terminogram looks](screenshot.jpg)
 
 ## Usage
 Connect via telnet to a Terminogram server. Start your own by running:

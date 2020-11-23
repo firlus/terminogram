@@ -1,7 +1,8 @@
 # Terminogram - Nonogram over Telnet
+[This is how Terminogram looks](firl.us/terminogram-screenshot)
 
 ## Usage
-Connect via telnet to a Terminogram server. Start your own by running
+Connect via telnet to a Terminogram server. Start your own by running:
 ```
 go run cmd/nononet/nononet.go
 ```
@@ -9,8 +10,9 @@ The standard port is ```42002```.
 
 You also can use my hosted version:
 ```
-telnet terminogram.firlus.dev 42002
+telnet terminogram.firlus.dev
 ```
+I use the Telnet standard port 23, so you do not have to explicitly add it.
 
 If you do not know how Nonogram works, ask Google for the rules.
 
